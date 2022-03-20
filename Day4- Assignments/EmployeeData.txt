@@ -1,0 +1,9 @@
+101,Meganadh,4000
+102,Rajesh,5000
+103,Kiran,6000
+104,Bharath,4500
+105,Shankar,3500
+107,Anuj,6500
+106,Ajay,5800
+109,Rohit,5410
+110,Mohit,5410
